@@ -1,0 +1,58 @@
+[
+    {
+        "id":0,
+        "headshot": "imgs/headshot01.jpg",
+        "salonName": "Beauty Parlor",
+        "ownerName": "Lisa Mari",
+        "addressFirstLine":"139 W Pike St",
+        "addressSecondLine":"Canonsburg, PA 15317",
+        "suite":"304",
+        "phone":"724-249-5274",
+        "link":""
+    },
+    {
+        "id":1,
+        "headshot": "imgs/headshot01.jpg",
+        "salonName": "Beauty Parlor",
+        "ownerName": "Lisa Mari",
+        "addressFirstLine":"139 W Pike St",
+        "addressSecondLine":"Canonsburg, PA 15317",
+        "suite":"304",
+        "phone":"724-249-5274",
+        "link":""
+    },
+    {
+        "id":2,
+        "headshot": "imgs/headshot01.jpg",
+        "salonName": "Beauty Parlor",
+        "ownerName": "Lisa Mari",
+        "addressFirstLine":"139 W Pike St",
+        "addressSecondLine":"Canonsburg, PA 15317",
+        "suite":"304",
+        "phone":"724-249-5274",
+        "link":""
+    },
+    {
+        "id":3,
+        "headshot": "imgs/headshot01.jpg",
+        "salonName": "Beauty Parlor",
+        "ownerName": "Lisa Mari",
+        "addressFirstLine":"139 W Pike St",
+        "addressSecondLine":"Canonsburg, PA 15317",
+        "suite":"304",
+        "phone":"724-249-5274",
+        "link":""
+    },
+    {
+        "id":4,
+        "headshot": "imgs/headshot01.jpg",
+        "salonName": "Beauty Parlor",
+        "ownerName": "Lisa Mari",
+        "addressFirstLine":"139 W Pike St",
+        "addressSecondLine":"Canonsburg, PA 15317",
+        "suite":"304",
+        "phone":"724-249-5274",
+        "link":""
+    }
+
+]
